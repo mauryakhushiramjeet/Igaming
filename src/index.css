@@ -5,3 +5,6 @@
 @tailwind components;
 @tailwind utilities;
 
+.custom-white-star svg:nth-of-type(5) path {
+    fill: white !important;
+}

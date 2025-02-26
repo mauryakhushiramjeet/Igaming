@@ -30,8 +30,8 @@ const Card=()=>{
                                 <p className="sm:w-[365px] xs-375:w-[260px] max-xxs-320:w-[230px] xs-375:h-[58px] z-[1] max-xxs-320:h-[48px] sm:text-[22px] xs-375:text-[17px] max-xxs-320:text-[15px] font-dmsans text-[#42FA7E] xs-375:mt-[26px] max-xxs-320:mt-[23px] text-center">
                                     {card.bonus}
                                 </p>
-                                <div className="w-[203px] h-[29px] z-[1]  sm:mt-[20px] xs-375:mt-[6px] max-xxs-320:mt-[3px] flex justify-center items-center ">
-                                    <StarRating rating={card.rating}/>
+                                <div className="w-[203px] h-[29px] z-[1]  sm:mt-[20px] xs-375:mt-[6px] max-xxs-320:mt-[3px] flex justify-center items-center  ">
+                                    <StarRating rating={card.rating} index={index}/>
                                 </div>
                                 <div className="sm:w-[305px]w-[250px] max-xxs-320:w-[240px] max-xxs-320:px-[7px]  sm:mt-[29px] mt-[15px] flex flex-col    ">
                                     {
