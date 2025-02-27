@@ -18,6 +18,8 @@ export default {
         'max-sm-425': { max: '425px' },  // Max-width 425px (for mobile-first design)
         'max-xs-375': { max: '375px' },  // Max-width 375px
         'max-xxs-320': { max: '320px' },  // Max-width 320px
+        'max-xl-1440': { max: '1440px' },
+        'max-lg':{max:'1024px'}
       },
       fontFamily:{
         judson: "Judson",

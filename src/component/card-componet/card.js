@@ -1,6 +1,7 @@
 export const cardData = [
   {
     "topImage": "/images/king.png",
+    "cornerImage": "/images/new.png",
     "name": "big boost",
     "cardImage": "/images/bigboost.png",
     "bonus": "Exclusive Offer: 500% Bonus Up to €5000 + Spins",
@@ -14,13 +15,14 @@ export const cardData = [
       "/images/visa.png",
       "/images/bankTransfer.png",
       "/images/p.png",
+      "images/wePay.png",
       "/images/shopping 1.png"
     ],
     "license": "Trusted  Existance License- MGA"
   },
   {
     "topImage": "/images/trophy.png",
-    "cornerImage": "/images/new.png",
+    "cornerImage": "/images/excluxive.png",
     "name": "casino days",
     "cardImage": "/images/casinoDays.png",
     "bonus": "Exclusive Offer: 500% Bonus Up to €5000 + Spins",
@@ -34,13 +36,14 @@ export const cardData = [
       "/images/visa.png",
       "/images/bankTransfer.png",
       "/images/p.png",
+        "images/wePay.png",
       "/images/shopping 1.png"
     ],
     "license": "Trusted  Existance License- CURACAO"
   },
   {
     "topImage": "/images/Vector.svg",
-    "cornerImage": "/images/excluxive.png",
+
 
     "name": "fireball",
     "cardImage": "/images/fireball.png",
@@ -55,6 +58,7 @@ export const cardData = [
       "/images/visa.png",
       "/images/bankTransfer.png",
       "/images/p.png",
+      "images/wePay.png",
       "/images/shopping 1.png"
     ],
     "license": "Trusted  Existance License- ESTONTA"
@@ -74,6 +78,7 @@ export const cardData = [
       "/images/visa.png",
       "/images/bankTransfer.png",
       "/images/p.png",
+      "images/wePay.png",
       "/images/shopping 1.png"
     ],
     "license": ""
@@ -93,6 +98,7 @@ export const cardData = [
       "/images/visa.png",
       "/images/bankTransfer.png",
       "/images/p.png",
+      "images/wePay.png",
       "/images/shopping 1.png"
     ],
     "license": ""
@@ -112,6 +118,7 @@ export const cardData = [
       "/images/visa.png",
       "/images/bankTransfer.png",
       "/images/p.png",
+      "images/wePay.png",
       "/images/shopping 1.png"
     ],
     "license": ""
