@@ -1,15 +1,15 @@
 const TournamentInfo=()=>{
     return(
-        <div className="flex justify-center items-center flex-col  ">
-            <p className="text-[#42FA7E] sm:mt-[73px] sm-425:mt-[40px] max-sm-425:mt-[25px] max-xs-375:mt-[20px] md:text-[25px]  sm:text-[20px] font-Judson font-normal ">Our Tournament</p>
+        <div className="flex justify-center items-center flex-col  mx-auto ">
+            <p className="text-[#42FA7E] mt-[40px] max-sm-528:mt-[30px] max-sm-425:mt-[15px] text-[25px] max-sm-528:text-[20px] max-sm-425:text-[15px]   font-Judson font-normal ">Our Tournament</p>
             <div>
-                <p className="text-[#FFFFFF] sm-425:mt-[14px] max-xs-375:mt-[13px]  lg:text-[40px] sm:text-[25px] max-sm-425:text-[23px] text-[20px] mb-[0px] font-dmsans font-bold">PLAY TO EARN GAMES</p>
-                <div className=" lg:border-8 md:border-4 max-sm-425:border-4 border-[#42FA7E] md:w-[80px] lg:w-[117.25px] max-sm-425:w-[70px]
-                 max-xs-375:w-[60px] max-xs-375:border-[3px]  text-start rounded-r-full mt-[0px] py-0  "></div>
+                <p className="text-[#FFFFFF] mt-[14px] max-sm-425:mt-[10px] lg:text-[40px]  md:text-[35px] max-lg-767:text-[30px] max-sm-425:text-[20px] font-dmsans font-bold">PLAY TO EARN GAMES</p>
+                <div className=" lg:border-8 md:border-4 outline-none max-sm-425:border-4 border-[#42FA7E] md:w-[95px] max-lg-767:w-[85px] max-sm-425:w-[65px] max-lg-767:border-[5px] lg:w-[117px]
+                  text-start rounded-r-full"></div>
             </div>
 
 
-            <p className="text-[#CBC5C5]  sm-425:mt-[18px] xs-375:mt-[18px] max-sm-425:px-[5px]  max-xs-375:w-[320px] max-xxs-320:w-[280px] max-xxs-320:px-[2px] max-xxs-320:mt-[15px] text-[13px] md:w-[600px] lg:w-[786px] max-sm-425:w-[400px] sm:text-[15px]  lg:text-[18px] flex  flex-col justify-center
+            <p className="text-[#CBC5C5] mt-[20px] md:text-[17px]  max-lg-767:text-[15px] max-sm-528:text-[14px] max-sm-425:text-[12px] lg:w-[768px] md:w-[650px] max-lg-767:w-[400px] max-sm-425:w-[300px] flex  flex-col justify-center
              items-center md:font-normal text-center font-dmsans ">
                 Play-to-Earn (P2E) games are revolutionizing the gaming industry by allowing players to earn
                            real-world value while enjoying their favorite games.

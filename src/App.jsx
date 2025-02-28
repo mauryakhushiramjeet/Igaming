@@ -21,7 +21,7 @@ function App() {
                     <div className="lg:block hidden">
                         <HorizontalCards/>
                     </div>
-                    <div className="lg:hidden block">
+                    <div  className="lg:hidden block">
                         <Card />
                     </div>
 
